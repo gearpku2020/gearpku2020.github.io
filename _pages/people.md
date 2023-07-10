@@ -45,13 +45,11 @@ CV: [Xu Gao.pdf](https://github.com/gearpku2020/gearpku2020.github.io/blob/main/
 ![](SifanTianPic.png)
 ### Sifan Tian
 * M.S. student in Environmental Public Health, Peking University, Beijing, China
-* Peking University
 * Bachelor of Medicine in Public Health, Peking University, Beijing, China
 
 ![](YutingWangPic.png)
 ### Yuting Wang
 * M.S. student in Environmental Public Health, Peking University, Beijing, China
-* Peking University
 * Bachelor of Medicine in Public Health, Peking University, Beijing, China
 
 
