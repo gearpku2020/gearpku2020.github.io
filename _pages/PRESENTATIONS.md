@@ -11,7 +11,7 @@ Presenter highlighted in **bold**
 
 ### Conference Presentations
 2023
-1.	**[Oral]Xu Gao**.  Epidemiology of air pollution and human aging: preliminary findings – The 7th Conference on Environmental Health Risks and Prevention and Control of New Environmental Pollutants, Zhengzhou, China, May 2023.
+1.	**\[Oral\]Xu Gao**.  Epidemiology of air pollution and human aging: preliminary findings – The 7th Conference on Environmental Health Risks and Prevention and Control of New Environmental Pollutants, Zhengzhou, China, May 2023.
 2.	**Yike Shen**, Tessa R. Bloomquist, Abigail Rauso, Feng Gao, Virginie Gillet, Fion K. Lau, Jean Philippe Bellenger, Allison Kupsco, Larissa Takser, Andrea A. Baccarelli. Evaluation of the effect of bacterial RNA quality on shotgun metatranscriptome sequencing quality. American Society of Microbiology (ASM) Microbe 2023 annual meeting. Houston, TX, June 15-19. (poster presentation)
 3.	**Yike Shen**, Wei Zhang, Ercheng Zhao, Andrea A. Baccarelli, Feng Gao. 2023. Pesticide exposure assessment and chemical ecotoxicity prediction using machine learning models. Society of Toxicology 62nd annual meeting (SOT 2023). Nashville, TN, March 20-23 (platform oral presentation).
 
