@@ -11,9 +11,9 @@ title                    : "GEAR Official"
 title_separator          : "-"
 name                     : &name "Xu Gao"
 description              : &description "Laboratory Website"
-url                      : https://yutingwangpku.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gearpku2020.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://yutingwangpku.github.io/"
+repository               : "https://gearpku2020.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "YutingWangPKU"
+  github           : "gearpku2020"
   google_plus      :
   keybase          :
   instagram        :
