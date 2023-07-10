@@ -11,7 +11,7 @@ Presenter highlighted in **bold**
 
 ### Conference Presentations
 2023
-1.	**Yike Shen**, Arce Domingo-Relloso, Allison Kupsco, Marianthi-Anna Kioumourtzoglou, Karin Haack, Maria Tellez-Plaza, Jason G. Umans, Amanda M. Fretts, Ying Zhang, Peter F. Schnatz, Ramon Casanova, Lisa Warsinger Martin, JoAnn E. Manson, Shelley A. Cole, Haotian Wu, Eric A.Whitsel, Andrea A. Baccarelli, Ana Navas-Acien, Feng Gao. AESurv: autoencoder survival analysis assists accurate early prediction of coronary heart disease. International Society for Environmental Epidemiology North American Chapter annual meeting – ISEE NAC 2023. Corvallis, OR, June 19-23. (oral presentation) 
+1.	**[Oral]Xu Gao**.  Epidemiology of air pollution and human aging: preliminary findings – The 7th Conference on Environmental Health Risks and Prevention and Control of New Environmental Pollutants, Zhengzhou, China, May 2023.
 2.	**Yike Shen**, Tessa R. Bloomquist, Abigail Rauso, Feng Gao, Virginie Gillet, Fion K. Lau, Jean Philippe Bellenger, Allison Kupsco, Larissa Takser, Andrea A. Baccarelli. Evaluation of the effect of bacterial RNA quality on shotgun metatranscriptome sequencing quality. American Society of Microbiology (ASM) Microbe 2023 annual meeting. Houston, TX, June 15-19. (poster presentation)
 3.	**Yike Shen**, Wei Zhang, Ercheng Zhao, Andrea A. Baccarelli, Feng Gao. 2023. Pesticide exposure assessment and chemical ecotoxicity prediction using machine learning models. Society of Toxicology 62nd annual meeting (SOT 2023). Nashville, TN, March 20-23 (platform oral presentation).
 
