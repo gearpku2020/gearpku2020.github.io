@@ -12,14 +12,14 @@ main:
   #- title: "CV"
   #  url: /cv/
     
-  - title: "Join"
-    url: /JoinGaoLab/ 
-    
   - title: "Publications"
     url: /Publications/
 
   - title: "Presentations"
-    url: /Presentations/    
+    url: /Presentations/
+
+  - title: "Join"
+    url: /JoinGaoLab/     
 
   #- title: "Microbiome Service Core"
   #  url: /microbiome/   
