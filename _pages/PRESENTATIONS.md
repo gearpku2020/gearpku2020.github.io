@@ -9,7 +9,7 @@ redirect_from:
 
 Presenter highlighted in **bold**
 
-2023
+	2023
 ---
 1.	**Xu Gao**.  Epidemiology of air pollution and human aging: preliminary findings – The 7th Conference on Environmental Health Risks and Prevention and Control of New Environmental Pollutants, Zhengzhou, China, May 2023. **\[Oral\]**
 2.	**Xu Gao**.  Short-term PM2.5 exposure and epigenetic aging: a quasi-experimental study – The 7th Conference on Environmental Health Risks and Prevention and Control of New Environmental Pollutants, Zhengzhou, China, May 2023. **\[Oral\]**
@@ -25,7 +25,9 @@ Presenter highlighted in **bold**
 9.      **Xu Gao**.  Short-term PM2.5 exposure and epigenetic aging: a quasi-experimental study in young healthy adults – Beijing Conference and Exhibition on Instrumental Analysis, Beijing, China, September 2021. **\[Keynote speaker\]**
 10.      **Xu Gao**.   Environmental risk factors for chronic kidney disease – International Society of Environmental Epidemiology 2021 Conference, Online Virtual, August 2021. **\[Session Chair\]**
 11.      **Xu Gao**.  Short-term exposure to PM2.5 and epigenetic aging: a quasi-experimental study – International Society of Environmental Epidemiology 2021 Conference, Online Virtual, August 2021. **\[Session Chair\]**
-    ## 2020
+
+	2020
+---
 12.	**Xu Gao**.  Blood-based DNA methylation biomarkers for cumulative lead exposure: associations with cardiovascular disease incidence and mortality in the Strong Heart Study – International Society of Environmental Epidemiology 2020 Conference, Online Virtual, August 2020. **\[Oral\]**
 
 
