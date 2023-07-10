@@ -25,35 +25,33 @@ CV: [Xu Gao.pdf](https://github.com/gearpku2020/gearpku2020.github.io/blob/main/
 ## Students
 ![](MeijieJiangPic.png)
 ### Meijie Jiang
-* Ph.D. student in Environmental Public Health \
-* Peking University \
-* Master of Science in Environmental Health, Peking University, Beijing, China \
+* Ph.D. student in Environmental Public Health, Peking University, Beijing, China
+* Master of Science in Environmental Health, Peking University, Beijing, China
 * Bachelor of Science in Environmental Science, Jilin University, Jilin Province, China
 
 ![](ShuzhenLiuPic.png)
 ### Shuzhen Liu
-Ph.D. student in Environmental Public Health \
-Peking University \
-Master of Medicine in Public Health, Guangxi Medical University, Guangxi Province, China \
-Bachelor of Medicine in Public Health, Medical Colleges Of Guilin, Guangxi Province, China 
+* Ph.D. student in Environmental Public Health, Peking University, Beijing, China
+* Master of Medicine in Public Health, Guangxi Medical University, Guangxi Province, China
+* Bachelor of Medicine in Public Health, Medical Colleges Of Guilin, Guangxi Province, China 
 
 ![](HaocanSongPic.png)
 ### Haocan Song
-Research Intern, National Institute of Environmental Health, China CDC, Beijing, China \
-Biostatistician II, Vanderbilt University Medical Center, Nashville, Tennessee, United States \
-Master of Public Health in Biostatistics, Rollins School of Public Health, Emory University, Atlanta, Georgia, United States \
-Bachelor of Engineering in Food Quality and Safety, College of Food Science, Southwest University, Chongqing, China 
+* Research Intern, National Institute of Environmental Health, China CDC, Beijing, China
+* Biostatistician II, Vanderbilt University Medical Center, Nashville, Tennessee, United States
+* Master of Public Health in Biostatistics, Rollins School of Public Health, Emory University, Atlanta, Georgia, United States
+* Bachelor of Engineering in Food Quality and Safety, College of Food Science, Southwest University, Chongqing, China 
 
 ![](SifanTianPic.png)
 ### Sifan Tian
-M.S. student in Environmental Public Health \
-Peking University \
-Bachelor of Medicine in Public Health, Peking University, Beijing, China
+* M.S. student in Environmental Public Health, Peking University, Beijing, China
+* Peking University
+* Bachelor of Medicine in Public Health, Peking University, Beijing, China
 
 ![](YutingWangPic.png)
 ### Yuting Wang
-M.S. student in Environmental Public Health \
-Peking University \
-Bachelor of Medicine in Public Health, Peking University, Beijing, China
+* M.S. student in Environmental Public Health, Peking University, Beijing, China
+* Peking University
+* Bachelor of Medicine in Public Health, Peking University, Beijing, China
 
 
