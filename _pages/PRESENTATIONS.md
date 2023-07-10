@@ -25,7 +25,9 @@ Presenter highlighted in **bold**
 9.      **Xu Gao**.  Short-term PM2.5 exposure and epigenetic aging: a quasi-experimental study in young healthy adults – Beijing Conference and Exhibition on Instrumental Analysis, Beijing, China, September 2021. **\[Keynote speaker\]**
 10.      **Xu Gao**.   Environmental risk factors for chronic kidney disease – International Society of Environmental Epidemiology 2021 Conference, Online Virtual, August 2021. **\[Session Chair\]**
 11.      **Xu Gao**.  Short-term exposure to PM2.5 and epigenetic aging: a quasi-experimental study – International Society of Environmental Epidemiology 2021 Conference, Online Virtual, August 2021. **\[Session Chair\]**
-
     ## 2020
-1.	**Yike Shen**, Elliot T. Ryser, Hui Li, Wei Zhang. 2020. Bacterial Community Assembly and Antibiotic Resistance Genes in the Lettuce-Soil System upon Exposure to Anthropogenic Antibiotics. American Society of Microbiology Conference – ASM Microbe 2020. Chicago, IL, June 18, 2020 (e-poster presentation).
+12.	**Xu Gao**.  Blood-based DNA methylation biomarkers for cumulative lead exposure: associations with cardiovascular disease incidence and mortality in the Strong Heart Study – International Society of Environmental Epidemiology 2020 Conference, Online Virtual, August 2020. **\[Oral\]**
+
+
+Updated 08/01/2023
 
