@@ -9,8 +9,7 @@ redirect_from:
 
 Presenter highlighted in **bold**
 
-### Conference Presentations
-2023
+    ## 2023
 1.	**Xu Gao**.  Epidemiology of air pollution and human aging: preliminary findings – The 7th Conference on Environmental Health Risks and Prevention and Control of New Environmental Pollutants, Zhengzhou, China, May 2023. __(oral presentation)__ 
 2.	**Xu Gao**.  Short-term PM2.5 exposure and epigenetic aging: a quasi-experimental study – The 7th Conference on Environmental Health Risks and Prevention and Control of New Environmental Pollutants, Zhengzhou, China, May 2023. __(oral presentation)__ 
 3.	**Xu Gao**.  Short-term PM2.5 exposure and epigenetic aging: a quasi-experimental study – The 7th Asian Congress on Environmental Mutagens, Qingdao, China, May 2023. __(oral presentation)__ 
