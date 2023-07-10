@@ -25,10 +25,10 @@ CV: [Xu Gao.pdf](https://github.com/gearpku2020/gearpku2020.github.io/blob/main/
 ## Students
 ![](MeijieJiangPic.png)
 ### Meijie Jiang
-Ph.D. student in Environmental Public Health \
-Peking University \
-Master of Science in Environmental Health, Peking University, Beijing, China \
-Bachelor of Science in Environmental Science, Jilin University, Jilin Province, China
+* Ph.D. student in Environmental Public Health \
+* Peking University \
+* Master of Science in Environmental Health, Peking University, Beijing, China \
+* Bachelor of Science in Environmental Science, Jilin University, Jilin Province, China
 
 ![](ShuzhenLiuPic.png)
 ### Shuzhen Liu
