@@ -11,6 +11,7 @@ The Gao Lab of Environmental Epidemiology & Aging Research (GEAR), established i
 The webpage is developed and maintained by:
 
 - [Yuting Wang] - [a current master’s student in GEAR]
+- [Peifeng Guo] - [a current master’s student in GEAR]
 
 
 ## Contact
