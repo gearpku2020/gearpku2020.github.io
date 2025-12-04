@@ -15,13 +15,13 @@ redirect_from:
 
 Dr. Gao highlighted in **bold**; Corresponding authors marked*; Co-first authors marked#.
 
-1  <details>
-2    <summary>2025</summary>
-3  <ul>
-4    <li>Li Y, Zhang H, Wu T, Chen R, Wang Y, Liu S, Tian S, Jiang M, Huang J, <strong>Gao X*</strong>. Long-Term Exposure to PM2.5 and its Effects on DNA Methylation-Based Biological Aging: Evidence from a Multi-Cohort Study. Environ. Sci. Technol, 2025. <a href="https://pubs.acs.org/doi/10.1021/acs.est.4c13675">Read</a></li>
-5    <li><strong>Gao X</strong>. Environmental Determinants of Metabolic Aging: Integrating Epigenetics, Endocrine Pathways, and Environmental Exposures. Trends Endocrinol Metab, 2025. <a href="https://www.cell.com/trends/endocrinology-metabolism/fulltext/S1043-2760(25)00147-X">Read</a></li>
-6  </ul>
-7  </details>
+<details>
+  <summary>2025</summary>
+<ul>
+  <li>Li Y, Zhang H, Wu T, Chen R, Wang Y, Liu S, Tian S, Jiang M, Huang J, <strong>Gao X*</strong>. Long-Term Exposure to PM2.5 and its Effects on DNA Methylation-Based Biological Aging: Evidence from a Multi-Cohort Study. Environ. Sci. Technol, 2025. <a href="https://pubs.acs.org/doi/10.1021/acs.est.4c13675">Read</a></li>
+  <li><strong>Gao X</strong>. Environmental Determinants of Metabolic Aging: Integrating Epigenetics, Endocrine Pathways, and Environmental Exposures. Trends Endocrinol Metab, 2025. <a href="https://www.cell.com/trends/endocrinology-metabolism/fulltext/S1043-2760(25)00147-X">Read</a></li>
+</ul>
+</details>
 
 
 <details>
@@ -79,5 +79,6 @@ Dr. Gao highlighted in **bold**; Corresponding authors marked*; Co-first authors
 
 ---
 Updated 02/18/2024
+
 
 
