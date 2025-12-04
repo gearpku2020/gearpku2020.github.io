@@ -1,6 +1,7 @@
 ---
 permalink: /People/Sifan-Tian.md/
 title: "Sifan Tian"
+order: 2
 ---
 
 ![](../_pages/tsf.png)
@@ -11,5 +12,6 @@ title: "Sifan Tian"
 * Bachelor of Medicine in Public Health, Peking University, Beijing, China
 
 ### Information
+
 
 * Email: <tiansifan2017@pku.edu.cn>
