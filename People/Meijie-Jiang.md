@@ -1,7 +1,6 @@
 ---
 permalink: /People/Meijie-Jiang.md/
 title: "Meijie Jiang"
-order: 1
 ---
 
 ![](../_pages/jmj.png)
@@ -19,3 +18,4 @@ order: 1
 * GitHub: <a href="https://github.com/MeijieJiang">@MeijieJiang</a>
 
 * Email: <jiangmeijie2018@pku.edu.cn>
+
