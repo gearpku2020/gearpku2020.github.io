@@ -26,10 +26,18 @@ CV: [Xu Gao.pdf](https://book.yunzhan365.com/cbznj/fglb/mobile/index.html)
 
 # Team
 
+## Current Members
+
 [![](ShuzhenLiuPic.png)](../People/Shuzhen-Liu.md) | [![](HaocanSongPic.png)](../People/Haocan-Song.md) | [![](you.png)](https://gearpku2020.github.io//JoinGaoLab/)
 [<center>Shuzhen Liu</center>](../People/Shuzhen-Liu.md) | [<center>Haocan Song</center>](../People/Haocan-Song.md) | [<center>You?</center>](https://gearpku2020.github.io//JoinGaoLab/)
+
+---
+
+## Alumni
+
 [![](MeijieJiangPic.png)](../People/Meijie-Jiang.md) | [![](SifanTianPic.png)](../People/Sifan-Tian.md) | [![](YutingWangPic.png)](../People/Yuting-Wang.md)
 [<center>Meijie Jiang</center>](../People/Meijie-Jiang.md) | [<center>Sifan Tian</center>](../People/Sifan-Tian.md) | [<center>Yuting Wang</center>](../People/Yuting-Wang.md)
+
 
 
 
