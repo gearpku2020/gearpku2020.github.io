@@ -1,7 +1,6 @@
 ---
 permalink: /People/Sifan-Tian.md/
 title: "Sifan Tian"
-order: 2
 ---
 
 ![](../_pages/tsf.png)
@@ -15,3 +14,4 @@ order: 2
 
 
 * Email: <tiansifan2017@pku.edu.cn>
+
