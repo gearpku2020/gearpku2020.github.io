@@ -20,6 +20,7 @@ Dr. Gao highlighted in **bold**; Corresponding authors marked*; Co-first authors
 <ul>
     <li>Jiang M, Guo P, Liu S, Wang H, Cai J, Qin J, <strong>Gao X*</strong>. A multidimensional epidemiological perspective on frailty dynamics and prevention. Trends Endocrinol Metab, 2025. <a href="https://www.cell.com/trends/endocrinology-metabolism/fulltext/S1043-2760(25)00147-X">Read</a></li>
   <li>Jiang M, Wang Y, Tian S, Liu S, Luo Y, Song H, Qin J, Lv Y, Baccarelli AA, Zhang Z, <strong>Gao X*</strong>. Air Pollution Control Mitigates Frailty Progression: Evidence from Two Cohorts of Older Adults and DNA Methylation Insights. Environ. Sci. Technol, 2025. <a href="https://pubs.acs.org/doi/10.1021/acs.est.4c13675">Read</a></li>
+  <li>Wang Y, Jiang M, Liu S, <strong>Gao X*</strong>. easyEWAS: a flexible and user-friendly R package for epigenome-wide association study. Bioinformatics. Adv, 2025. <a href="https://academic.oup.com/bioinformaticsadvances/article/5/1/vbaf026/8011369">Read</a></li>
 </ul>
 </details>
 
@@ -30,6 +31,7 @@ Dr. Gao highlighted in **bold**; Corresponding authors marked*; Co-first authors
   <li><strong>Gao X</strong>. Environmental aging: through the prism of DNA methylation. Epigenomics, 2024. <a href="https://doi.org/10.1080/17501911.2024.2345042">Read</a></li>
   <li>Jiang M, Tian S, Liu S, Wang Y, Guo X, Huang T, Lin X, Belsky D, Baccarelli AA, <strong>Gao X*</strong>. Accelerated biological aging elevates the risk of cardiometabolic multimorbidity and mortality. Nat Cardiovasc Res, 2024. <a href="https://www.nature.com/articles/s44161-024-00438-8#citeas">Read</a></li>
   <li>Guo T, Tian S, Xin H, Du J, Cao X, Feng B, He Y, He Y, Wang D, Zhang B, Liu Z, Yan J, Shen L, Di Y, Chen Y, Jin Q, Pan S, Kioumourtzoglou MA, Gao L, <strong>Gao X*</strong>. Impact of fine particulate matter on latent tuberculosis infection and active tuberculosis in older adults: a population-based multicentre cohort study. Emerg Microbes Infect, 2024. <a href="https://pubmed.ncbi.nlm.nih.gov/38240283/">Read</a></li>
+  <li><strong>Gao X*</strong>, Wang Y, Song Z, Jiang M, Huang T, Baccarelli AA. Early-life risk factors, accelerated biological aging and the late-life risk of mortality and morbidity. QJM: An International Journal of Medicine, 2024. <a href="https://academic.oup.com/qjmed/article/117/4/257/7335849">Read</a></li>
 </ul>
 </details>
 
@@ -78,6 +80,7 @@ Dr. Gao highlighted in **bold**; Corresponding authors marked*; Co-first authors
 
 ---
 Updated 02/18/2024
+
 
 
 
