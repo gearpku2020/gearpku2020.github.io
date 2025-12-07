@@ -13,8 +13,9 @@ locale                   : "en-US"
 # minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 title                    : "GEAR LAB"
 title_separator          : "-"
-search: true
-search_full_content: true
+search                   : true
+search_full_content      : true
+search_provider          : lunr
 # excerpt_separator        : "<!--more-->"
 plugins: [jekyll-paginate]
 paginate: 20 # 每页文章数
@@ -319,6 +320,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
 
