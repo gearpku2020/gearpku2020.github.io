@@ -11,12 +11,12 @@
 locale                   : "en-US"
 # theme                    : "minimal-mistakes-jekyll"
 # minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-title                    : "GEAR Lab"
+title                    : "GEAR LAB"
 title_separator          : "-"
-# excerpt_separator        : "<!--more-->"
-plugins: [jekyll-paginate]
 search: true
 search_full_content: true
+# excerpt_separator        : "<!--more-->"
+plugins: [jekyll-paginate]
 paginate: 20 # 每页文章数
 paginate_path: "essay/page:num" # 可选，分页链接
 name                     : &name "Xu Gao"
@@ -319,5 +319,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
