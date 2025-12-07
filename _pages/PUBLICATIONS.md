@@ -20,7 +20,7 @@ Dr. Gao highlighted in **bold**; Corresponding authors marked*; Co-first authors
 <ul>
     <li>Jiang M#, Guo P#, Liu S, Wang H, Cai J, Qin J, <strong>Gao X*</strong>. A multidimensional epidemiological perspective on frailty dynamics and prevention. Trends Endocrinol Metab, 2025. <a href="https://www.cell.com/trends/endocrinology-metabolism/fulltext/S1043-2760(25)00147-X">Read</a></li>
   <li>Jiang M, Wang Y, Tian S, Liu S, Luo Y, Song H, Qin J, Lv Y, Baccarelli AA, Zhang Z, <strong>Gao X*</strong>. Air Pollution Control Mitigates Frailty Progression: Evidence from Two Cohorts of Older Adults and DNA Methylation Insights. Environ. Sci. Technol, 2025. <a href="https://pubs.acs.org/doi/10.1021/acs.est.4c13675">Read</a></li>
-  <li>Wang Y, Jiang M, Liu S, <strong>Gao X*</strong>. easyEWAS: a flexible and user-friendly R package for epigenome-wide association study. Bioinformatics. Adv, 2025. <a href="https://academic.oup.com/bioinformaticsadvances/article/5/1/vbaf026/8011369">Read</a></li>
+  <li>Wang Y, Jiang M, Niu S, <strong>Gao X*</strong>. easyEWAS: a flexible and user-friendly R package for epigenome-wide association study. Bioinformatics. Adv, 2025. <a href="https://academic.oup.com/bioinformaticsadvances/article/5/1/vbaf026/8011369">Read</a></li>
 </ul>
 </details>
 
@@ -79,7 +79,8 @@ Dr. Gao highlighted in **bold**; Corresponding authors marked*; Co-first authors
 </details>
 
 ---
-Updated 02/18/2024
+Updated 12/08/2025
+
 
 
 
