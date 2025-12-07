@@ -9,7 +9,7 @@
 
 # Site Settings
 locale                   : "en-US"
-# theme                    : "minimal-mistakes-jekyll"
+theme                    : "minimal-mistakes-jekyll"
 # minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 title                    : "GEAR LAB"
 title_separator          : "-"
@@ -320,6 +320,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
 
