@@ -1,0 +1,178 @@
+/* ============================================================
+   GEAR Lab — Full Website Dark Mode
+   For Minimal Mistakes Theme + Publications details/summary
+   ============================================================ */
+
+/* ========= Base Dark Mode Toggle Class ========= */
+body.dark-mode,
+.dark-mode {
+  background-color: #000 !important;
+  color: #e5e5e5 !important;
+}
+
+/* ========= Global Text Color Correction ========= */
+body.dark-mode p,
+body.dark-mode li,
+body.dark-mode td,
+body.dark-mode th,
+body.dark-mode span,
+body.dark-mode strong,
+body.dark-mode em {
+  color: #e5e5e5 !important;
+}
+
+/* ========= Links ========= */
+body.dark-mode a {
+  color: #66aaff !important;
+}
+
+body.dark-mode a:hover {
+  color: #99cfff !important;
+}
+
+/* ========= Top Navigation / Masthead ========= */
+body.dark-mode .masthead,
+body.dark-mode .greedy-nav,
+body.dark-mode .site-title {
+  background-color: #111 !important;
+  color: #eee !important;
+}
+
+body.dark-mode .greedy-nav a,
+body.dark-mode .masthead a {
+  color: #eee !important;
+}
+
+/* ========= Footer ========= */
+body.dark-mode .page__footer,
+body.dark-mode footer {
+  background: #111 !important;
+  color: #ccc !important;
+}
+
+/* ========= Content Areas ========= */
+body.dark-mode .page__content,
+body.dark-mode .page__inner-wrap,
+body.dark-mode .page,
+body.dark-mode .initial-content {
+  background: #000 !important;
+  color: #e5e5e5 !important;
+}
+
+/* ========= Sidebar Author Card ========= */
+body.dark-mode .author__avatar img {
+  filter: brightness(0.8) !important;
+}
+
+body.dark-mode .author__content,
+body.dark-mode .author__urls-wrapper,
+body.dark-mode .author__urls li,
+body.dark-mode .author__bio {
+  background: transparent !important;
+  color: #e5e5e5 !important;
+}
+
+/* ========= Buttons ========= */
+body.dark-mode .btn,
+body.dark-mode .btn--inverse {
+  background: #222 !important;
+  color: #ffffff !important;
+  border-color: #444 !important;
+}
+
+body.dark-mode .btn:hover {
+  background: #444 !important;
+}
+
+/* ========= Tables ========= */
+body.dark-mode table,
+body.dark-mode thead,
+body.dark-mode tbody {
+  background: #111 !important;
+  color: #e5e5e5 !important;
+}
+
+body.dark-mode td,
+body.dark-mode th {
+  border-color: #333 !important;
+}
+
+/* ========= Code Blocks ========= */
+body.dark-mode .highlight,
+body.dark-mode pre,
+body.dark-mode code {
+  background: #111 !important;
+  color: #e6e6e6 !important;
+}
+
+/* ========= Details / Summary (Publications Page) ========= */
+body.dark-mode details {
+  background: #090909 !important;
+  border: 1px solid #333 !important;
+}
+
+body.dark-mode details summary {
+  color: #f0f0f0 !important;
+  background: #111 !important;
+  padding: 10px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+body.dark-mode details[open] summary {
+  background: #151515 !important;
+}
+
+body.dark-mode details ul {
+  background: #000 !important;
+  padding: 10px 20px !important;
+  color: #ddd !important;
+}
+
+/* ========= Horizontal Rules ========= */
+body.dark-mode hr {
+  border-color: #333 !important;
+}
+
+/* ========= Category / Tag Pages ========= */
+body.dark-mode .taxonomy__index a {
+  background: #111 !important;
+  color: #e5e5e5 !important;
+  border-color: #333 !important;
+}
+
+/* ========= Pagination ========= */
+body.dark-mode .pagination {
+  background: #111 !important;
+}
+
+body.dark-mode .pagination li a {
+  background: #222 !important;
+  color: #e5e5e5 !important;
+  border-color: #333 !important;
+}
+
+/* ========= Search Box (if enabled later) ========= */
+body.dark-mode .search__toggle {
+  color: #fff !important;
+}
+
+/* ========= Images ========= */
+body.dark-mode img {
+  filter: brightness(0.85) !important;
+}
+
+/* ========= Cards (Portfolio, Teaching, etc.) ========= */
+body.dark-mode .feature__item,
+body.dark-mode .archive__item {
+  background: #111 !important;
+  border-color: #333 !important;
+  color: #eee !important;
+}
+
+/* ========= Blockquotes ========= */
+body.dark-mode blockquote {
+  background: #111 !important;
+  border-left-color: #444 !important;
+  color: #ddd !important;
+}
