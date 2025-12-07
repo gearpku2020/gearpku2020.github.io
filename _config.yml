@@ -11,7 +11,7 @@
 locale                   : "en-US"
 # theme                    : "minimal-mistakes-jekyll"
 # minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-title                    : "GEAR Official"
+title                    : "GEAR Lab"
 title_separator          : "-"
 # excerpt_separator        : "<!--more-->"
 plugins: [jekyll-paginate]
@@ -319,4 +319,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
