@@ -14,3 +14,65 @@
     color: #ddd !important;
   }
 }
+
+/* Dark mode activation */
+body.dark-mode,
+.dark-mode {
+  background: #000 !important;
+  color: #e0e0e0 !important;
+}
+
+/* All content */
+body.dark-mode .page__content,
+body.dark-mode .page__inner-wrap,
+body.dark-mode .page {
+  background: #000 !important;
+  color: #e0e0e0 !important;
+}
+
+/* Sidebar (author card) */
+body.dark-mode .author__content,
+body.dark-mode .author__urls-wrapper {
+  background: transparent !important;
+  color: #e0e0e0 !important;
+}
+
+/* Top navigation bar */
+body.dark-mode .masthead,
+body.dark-mode nav,
+body.dark-mode .greedy-nav {
+  background: #111 !important;
+}
+
+body.dark-mode .masthead a,
+body.dark-mode nav a,
+body.dark-mode .greedy-nav a {
+  color: #e0e0e0 !important;
+}
+
+/* Links */
+body.dark-mode a {
+  color: #66aaff !important;
+}
+
+/* Buttons */
+body.dark-mode .btn {
+  background: #222 !important;
+  color: #fff !important;
+}
+
+/* Footer */
+body.dark-mode .page__footer {
+  background: #111 !important;
+  color: #ccc !important;
+}
+
+/* Tables */
+body.dark-mode table {
+  color: #eee !important;
+}
+
+/* Details tag */
+body.dark-mode details summary {
+  color: #fff !important;
+}
