@@ -40,5 +40,20 @@
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const body = document.body;
+  const current = localStorage.getItem("mode");
+  if (current === "dark") body.classList.add("dark-mode");
+
+  document.getElementById("dark-mode-toggle")?.addEventListener("click", () => {
+    body.classList.toggle("dark-mode");
+    localStorage.setItem("mode", body.classList.contains("dark-mode") ? "dark" : "light");
+  });
+});
+</script>
+
+
 <!-- end custom head snippets -->
+
 
