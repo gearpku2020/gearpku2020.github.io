@@ -104,7 +104,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/xugao1988"
+  github           : "xugao1988"
   google_plus      :
   keybase          :
   instagram        :
@@ -263,7 +263,7 @@ sass:
 permalink: /:categories/:title/
   #  paginate: 5 # amount of posts to show
   #  paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
@@ -317,6 +317,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
 
