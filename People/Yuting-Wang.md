@@ -18,9 +18,10 @@ I am a current master's student in GEAR, having completed my undergraduate studi
 
 ### Information
 
-* Publications: <a href="https://scholar.google.com/citations?user=hHmZrHMAAAAJ&hl=en">click here (Information from Google Scholar)</a>
+* Publications: <a href="https://scholar.google.com/citations?user=hHmZrHMAAAAJ&hl=en">click here (from Google Scholar)</a>
 * GitHub: <a href="https://github.com/ytwangZero">@ytwangZero</a>
 * Email: <ytwang@pku.edu.cn>
+
 
 
 
