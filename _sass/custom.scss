@@ -1,0 +1,16 @@
+/* custom.scss: your custom overrides */
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #111 !important;
+    color: #eee !important;
+  }
+
+  a {
+    color: #9ecbff !important;
+  }
+
+  .page__content {
+    color: #ddd !important;
+  }
+}
