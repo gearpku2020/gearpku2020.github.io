@@ -177,3 +177,23 @@ body.dark-mode blockquote {
   color: #ddd !important;
 }
 
+/* ============================================================
+   Light Mode Navbar Override (only affects NON dark-mode pages)
+   ============================================================ */
+
+.masthead,
+.greedy-nav {
+  background-color: #2A9494 !important;   /* 改这里：浅色模式背景 */
+  border-bottom: 1px solid #ddd !important;
+}
+
+.masthead a,
+.greedy-nav a,
+.site-title {
+  color: #ffffff !important;                  /* 改这里：浅色模式文字颜色 */
+}
+
+.masthead a:hover,
+.greedy-nav a:hover {
+  color: #B2FFFF !important;               /* 改这里：浅色模式 hover 颜色 */
+}
