@@ -32,6 +32,8 @@ CV: [Xu Gao.pdf](https://github.com/gearpku2020/gearpku2020.github.io/blob/main/
 [<center>Shuzhen Liu</center>](../People/Shuzhen-Liu.md) | [<center>Haocan Song</center>](../People/Haocan-Song.md) | [<center>Yaxin Luo</center>](../People/Yaxin-Luo.md)
 [![](NSY.png)](../People/Siyuan-Niu.md) | [![](GTT.png)](../People/Tiantian-Gu.md) | [![](TX.png)](../People/Xu-Tang.md)
 [<center>Siyuan Niu</center>](../People/Siyuan-Niu.md) | [<center>Tiantian Gu</center>](../People/Tiantian-Gu.md) | [<center>Xu Tang</center>](../People/Xu-Tang.md)
+[![](gpf.png)](../People/Peifeng-Guo.md) | [![](you.png)](https://gearpku2020.github.io//JoinGaoLab/)
+[<center>Peifeng Guo</center>](../People/Peifeng-Guo.md) | [<center>You?</center>](https://gearpku2020.github.io//JoinGaoLab/)
 
 ---
 
@@ -39,6 +41,7 @@ CV: [Xu Gao.pdf](https://github.com/gearpku2020/gearpku2020.github.io/blob/main/
 
 [![](MeijieJiangPic.png)](../People/Meijie-Jiang.md) | [![](SifanTianPic.png)](../People/Sifan-Tian.md) | [![](YutingWangPic.png)](../People/Yuting-Wang.md)
 [<center>Meijie Jiang</center>](../People/Meijie-Jiang.md) | [<center>Sifan Tian</center>](../People/Sifan-Tian.md) | [<center>Yuting Wang</center>](../People/Yuting-Wang.md)
+
 
 
 
