@@ -197,3 +197,34 @@ body.dark-mode blockquote {
 .greedy-nav a:hover {
   color: #B2FFFF !important;               /* 改这里：浅色模式 hover 颜色 */
 }
+
+
+/* ============================================================
+   Light Mode Navbar Customizations
+   ============================================================ */
+
+/* 背景色 + 去掉横线 */
+.masthead,
+.greedy-nav {
+  background-color: #2A9494 !important;
+  border-bottom: none !important;     /* 去横线 */
+}
+
+/* 文字颜色 + 加粗 */
+.masthead a,
+.greedy-nav a,
+.site-title {
+  color: #ffffff !important;
+  font-weight: 600 !important;        /* 导航文字加粗 */
+}
+
+/* Logo 更粗一点 */
+.site-title {
+  font-weight: 700 !important;        /* LOGO 特别加粗 */
+}
+
+/* hover 颜色 */
+.masthead a:hover,
+.greedy-nav a:hover {
+  color: #B2FFFF !important;
+}
