@@ -23,7 +23,6 @@ Dr. Gao highlighted in **bold**; Corresponding authors marked*; Co-first authors
   <li>Wang Y, Jiang M, Niu S, <strong>Gao X*</strong>. easyEWAS: a flexible and user-friendly R package for epigenome-wide association study. Bioinformatics. Adv, 2025. <a href="https://academic.oup.com/bioinformaticsadvances/article/5/1/vbaf026/8011369">Read</a></li>
   <li>Tang X, Tang L, Li X, Cao J, Wang H, Liu S, Yi Y, Zhang Z. Association between visceral fat and bone mineral density in perimenopausal women. PeerJ, 2025. <a href="https://peerj.com/articles/18957/">Read</a></li>
   <li>Tang X, Cao J, Cai J, Mo X, Wei Y, He K, Ye Z, Liang YJ, Zhao L, Qin L, Li Y, Qin J, Zhang Z. Effect of interaction of ATG7 and plasma metal concentrations on cognitive impairment in rural China. J Mol Neurosci, 2025. <a href="https://link.springer.com/article/10.1007/s12031-025-02322-x">Read</a></li>
-  <li>Gu T, Yang T, et al. Modification of green space on the associations between long-term road traffic noise exposure and incident intracerebral hemorrhage: A prospective cohort study. Environ Res, 2023. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0013935123009014">Read</a></li>
 </ul>
 </details>
 
@@ -83,6 +82,7 @@ Dr. Gao highlighted in **bold**; Corresponding authors marked*; Co-first authors
 
 ---
 Updated 12/08/2025
+
 
 
 
