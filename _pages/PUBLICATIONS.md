@@ -15,7 +15,7 @@ redirect_from:
 
 Dr. Gao highlighted in **bold**; Corresponding authors marked*; Co-first authors marked#.
 
-<details>
+<details open>
   <summary>2025</summary>
 <ul>
   <li>Jiang M#, Guo P#, Liu S, Wang H, Cai J, Qin J, <strong>Gao X*</strong>. A multidimensional epidemiological perspective on frailty dynamics and prevention. Trends Endocrinol Metab, 2025. <a href="https://www.cell.com/trends/endocrinology-metabolism/fulltext/S1043-2760(25)00147-X">Read</a></li>
@@ -82,6 +82,7 @@ Dr. Gao highlighted in **bold**; Corresponding authors marked*; Co-first authors
 
 ---
 Updated 12/08/2025
+
 
 
 
