@@ -16,3 +16,16 @@
     margin-right: 10px;
   }
   
+.darkmode-nav-btn {
+  background: none;
+  border: none;
+  font-size: 1.4rem;
+  cursor: pointer;
+  color: #fff !important;
+  padding: 0 10px;
+  margin-left: auto;
+}
+
+.darkmode-nav-btn:hover {
+  color: #B2FFFF !important;
+}
