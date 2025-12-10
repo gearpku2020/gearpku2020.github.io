@@ -177,14 +177,6 @@ body.dark-mode blockquote {
   color: #ddd !important;
 }
 
-#site-nav #dark-mode-toggle {
-  margin-left: 1rem;       /* 按钮与菜单保持间距 */
-  align-self: center;      /* 垂直居中对齐导航栏 */
-  height: 36px;            /* 使按钮高度更贴合导航栏 */
-  display: flex;
-  align-items: center;     /* 按钮内部居中 */
-}
-
 
 /* ============================================================
    Light Mode Navbar Override (only affects NON dark-mode pages)
