@@ -10,10 +10,12 @@ The Gao Lab of Environmental Epidemiology & Aging Research (GEAR), established i
 
 The webpage is developed and maintained by:
 
-- [Yuting Wang] - [a current master’s student in GEAR]
+- [Yuting Wang] - [a master’s graduate in GEAR (alumnus)]
 - [Peifeng Guo] - [a current master’s student in GEAR]
+- [Shiwen Jiang] - [a current research assistant in GEAR]
 
 
 ## Contact
 
 For inquiries about our research or webpage, please contact [Dr. Xu Gao] at [xu.gao@pku.edu.cn].
+
