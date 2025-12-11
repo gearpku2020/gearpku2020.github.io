@@ -10,7 +10,7 @@ title: "Yaxin Luo"
 ### Education
 
 * Ph.D. student in Environmental Public Health, Peking University, Beijing, China
-* Bachelor of Nursing, Central South University, Hunan Province, China
+* Bachelor of Science, Nursing, Central South University, Hunan Province, China
 
 ---
 
