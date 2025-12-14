@@ -30,8 +30,8 @@ hr.sep{margin:26px 0;}
     <div>
       <h3>R Package: <strong>easyEWAS</strong></h3>
       <p>
-        <strong>easyEWAS</strong> is an R package for <em>conducting epigenome-wide association studies (EWAS).</em>。
-        With easyEWAS, we provide a battery of statistical methods to support <em>differential methylation position analysis across various scenarios, as well as differential methylation region analysis based on the DMRcate method.</em>.
+        This is an R package for conducting epigenome-wide association studies (EWAS).
+        With easyEWAS, we provide a battery of statistical methods to support differential methylation position analysis across various scenarios, as well as differential methylation region analysis based on the DMRcate method.
       </p>
 
       <div class="btnrow">
@@ -50,11 +50,11 @@ hr.sep{margin:26px 0;}
 
   <div class="card">
     <h3>🧾 Software Copyright</h3>
-    <div class="meta">Registration No.: XXXX-XXXX · Year: 2024</div>
+    <div class="meta">Registration No.: 16541871 · Year: 2025</div>
 
     <p>
       <strong>An Integrated Pipeline for Epigenome-Wide Association Analysis V1.0</strong><br>
-      Owner: GEAR Lab / Peking University, China
+      Owner: GEAR Lab, Peking University
     </p>
 
     <p class="meta">
