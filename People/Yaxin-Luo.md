@@ -1,5 +1,5 @@
 ---
-permalink: /People/Yaxin-Luo/
+permalink: /People/Yaxin-Luo.md/
 title: "Yaxin Luo"
 ---
 
