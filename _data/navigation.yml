@@ -18,15 +18,16 @@ main:
   - title: "Presentations"
     url: /Presentations/
 
+  - title: "Software"
+    url: /Software/
+
   - title: "Join"
     url: /JoinGaoLab/     
-
-  #- title: "Microbiome Service Core"
-  #  url: /microbiome/   
     
   #- title: "Talks"
   #  url: /talks/
                 
   # - title: "Blog Posts"
   #   url: /year-archive/
+
 
