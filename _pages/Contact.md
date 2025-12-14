@@ -34,7 +34,7 @@ please feel free to contact us using the form below.
 </p>
 
 <form class="contact-form"
-      action="https://formspree.io/f/abcdwxyz"
+      action="https://formspree.io/f/xjknzapq"
       method="POST">
 
   <label for="name">Name</label>
