@@ -73,7 +73,7 @@ hr.sep{margin:26px 0;}
   <div class="card">
     <h3>📄 Certificate Preview</h3>
     <img class="cert" src="{{ '/images/easyEWAS-copyright.png' | relative_url }}"
-         alt="Software Copyright Certificate">
+         style="max-width:100%; width:100%; height:auto;">
   </div>
 
 </div>
