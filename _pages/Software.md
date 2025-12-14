@@ -1,13 +1,12 @@
 ---
-title: "Software"
-permalink: /Software/
+title: "Resources"
+permalink: /Resources/
 layout: single
 toc: true
 author_profile: false
 ---
 
 <style>
-/* 轻量美化：不改主题，只增强排版 */
 .card-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:18px;margin:18px 0 28px;}
 .card{border:1px solid rgba(0,0,0,.08);border-radius:14px;padding:16px 16px 14px;background:rgba(255,255,255,.6);}
 .card h3{margin:0 0 10px;}
@@ -25,27 +24,19 @@ hr.sep{margin:26px 0;}
 <div class="card">
   <div class="two-col">
     <div>
-      <img class="logo" src="{{ '/images/yourpackage.png' | relative_url }}" alt="R package logo">
+      <img class="logo" src="{{ '/images/easyEWAS.png' | relative_url }}" alt="R package logo">
     </div>
 
     <div>
-      <h3>📦 R Package: <strong>YourPackageName</strong></h3>
-      <div class="meta">Keywords: XXX, XXX, XXX</div>
-
+      <h3>R Package: <strong>easyEWAS</strong></h3>
       <p>
-        <strong>YourPackageName</strong> is an R package for <em>一句话核心功能</em>。
-        It provides <em>两三个亮点</em> and supports <em>典型应用场景</em>.
+        <strong>easyEWAS</strong> is an R package for <em>conducting epigenome-wide association studies (EWAS).</em>。
+        With easyEWAS, we provide a battery of statistical methods to support <em>differential methylation position analysis across various scenarios, as well as differential methylation region analysis based on the DMRcate method.</em>.
       </p>
 
-      <ul>
-        <li><strong>What it solves:</strong> 用一句话说明痛点/问题</li>
-        <li><strong>Main features:</strong> Feature A; Feature B; Feature C</li>
-      </ul>
-
       <div class="btnrow">
-        <a class="btn btn--primary" href="https://your-tutorial-link">Tutorial</a>
-        <a class="btn" href="https://github.com/your-repo">GitHub</a>
-        <a class="btn" href="https://cran.r-project.org/package=YourPackageName">CRAN</a>
+        <a class="btn btn--primary" href="https://easyewas.github.io/index.html">Tutorial</a>
+        <a class="btn" href="https://github.com/ytwangZero/easyEWAS">GitHub</a>
       </div>
     </div>
   </div>
@@ -62,29 +53,25 @@ hr.sep{margin:26px 0;}
     <div class="meta">Registration No.: XXXX-XXXX · Year: 2024</div>
 
     <p>
-      <strong>Software Name</strong><br>
-      Owner: XXX Lab / Institution
+      <strong>An Integrated Pipeline for Epigenome-Wide Association Analysis V1.0</strong><br>
+      Owner: GEAR Lab / Peking University, China
     </p>
 
     <p class="meta">
-      Short note: one sentence about what the software does / why it matters.
+      Short note: This Analysis System for Epigenome-Wide Association Studies (EWAS) V1.0 is a one-stop tool for Illumina DNA methylation arrays. It integrates data preprocessing, differential methylation analysis, and downstream functional annotation, and supports cohort, intervention, and longitudinal study designs.
     </p>
 
     <div class="btnrow">
-      <a class="btn btn--info" href="{{ '/images/software-copyright-certificate.png' | relative_url }}">
+      <a class="btn btn--info" href="{{ '/images/easyEWAS-copyright.png' | relative_url }}">
         View Certificate
-      </a>
-      <a class="btn" href="{{ '/files/software-copyright-certificate.pdf' | relative_url }}">
-        Download PDF
       </a>
     </div>
   </div>
 
   <div class="card">
     <h3>📄 Certificate Preview</h3>
-    <img class="cert" src="{{ '/images/software-copyright-certificate.png' | relative_url }}"
+    <img class="cert" src="{{ '/images/easyEWAS-copyright.png' | relative_url }}"
          alt="Software Copyright Certificate">
-    <div class="meta">Tip: keep image width ≤ 1200px for faster loading.</div>
   </div>
 
 </div>
