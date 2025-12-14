@@ -22,12 +22,16 @@ main:
     url: /Resources/
 
   - title: "Join"
-    url: /JoinGaoLab/     
+    url: /JoinGaoLab/ 
+
+  - title: "Contact"
+    url: /Contact/    
     
   #- title: "Talks"
   #  url: /talks/
                 
   # - title: "Blog Posts"
   #   url: /year-archive/
+
 
 
