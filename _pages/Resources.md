@@ -37,6 +37,8 @@ hr.sep{margin:26px 0;}
       <div class="btnrow">
         <a class="btn btn--primary" href="https://easyewas.github.io/index.html">Tutorial</a>
         <a class="btn" href="https://github.com/ytwangZero/easyEWAS">GitHub</a>
+        <a class="btn" href="https://academic.oup.com/bioinformaticsadvances/article/5/1/vbaf026/8011369">Paper</a>
+        <a class="btn" href="{{ '/files/easyEWAS_manual.pdf' | relative_url }}">PDF Guide</a>
       </div>
     </div>
   </div>
@@ -50,7 +52,7 @@ hr.sep{margin:26px 0;}
 
   <div class="card">
     <h3>🧾 Software Copyright</h3>
-    <div class="meta">Registration No.: 16541871 · Year: 2025</div>
+    <div class="meta">Registration No. 16541871   Year: 2025</div>
 
     <p>
       <strong>An Integrated Pipeline for Epigenome-Wide Association Analysis V1.0</strong><br>
@@ -58,7 +60,7 @@ hr.sep{margin:26px 0;}
     </p>
 
     <p class="meta">
-      Short note: This Analysis System for Epigenome-Wide Association Studies (EWAS) V1.0 is a one-stop tool for Illumina DNA methylation arrays. It integrates data preprocessing, differential methylation analysis, and downstream functional annotation, and supports cohort, intervention, and longitudinal study designs.
+      This Analysis System for Epigenome-Wide Association Studies (EWAS) V1.0 is a one-stop tool for Illumina DNA methylation arrays. It integrates data preprocessing, differential methylation analysis, and downstream functional annotation, and supports cohort, intervention, and longitudinal study designs.
     </p>
 
     <div class="btnrow">
