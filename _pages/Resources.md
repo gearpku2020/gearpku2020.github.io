@@ -38,7 +38,7 @@ hr.sep{margin:26px 0;}
         <a class="btn btn--primary" href="https://easyewas.github.io/index.html">Tutorial</a>
         <a class="btn" href="https://github.com/ytwangZero/easyEWAS">GitHub</a>
         <a class="btn" href="https://academic.oup.com/bioinformaticsadvances/article/5/1/vbaf026/8011369">Paper</a>
-        <a class="btn" href="{{ '/files/easyEWAS_manual.pdf' | relative_url }}">PDF Guide</a>
+        <a class="btn" href="{{ '/files/easyEWAS-manual.pdf' | relative_url }}">PDF Guide</a>
       </div>
     </div>
   </div>
