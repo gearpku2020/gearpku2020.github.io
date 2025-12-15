@@ -14,7 +14,7 @@ Assistant Professor \
 Department of Occupational and Environmental Health Sciences \
 School of Public Health, Peking University \
 Email: <xu.gao@pku.edu.cn> \
-CV: [Xu Gao.pdf](CV/CV%20-%20Xu%20Gao.pdf)
+CV: [Xu Gao.pdf](https://gearpku2020.github.io/CV/CV%20-%20Xu%20Gao.pdf)
 
 **Education**: 
 * 2018 - 2020 Postdoctoral Researcher (Environmental Health), Columbia University (United States)
@@ -41,6 +41,7 @@ CV: [Xu Gao.pdf](CV/CV%20-%20Xu%20Gao.pdf)
 
 [![](MeijieJiangPic.png)](../People/Meijie-Jiang.md) | [![](SifanTianPic.png)](../People/Sifan-Tian.md) | [![](YutingWangPic.png)](../People/Yuting-Wang.md)
 [<center>Meijie Jiang</center>](../People/Meijie-Jiang.md) | [<center>Sifan Tian</center>](../People/Sifan-Tian.md) | [<center>Yuting Wang</center>](../People/Yuting-Wang.md)
+
 
 
 
