@@ -52,12 +52,11 @@ hr.sep{margin:26px 0;}
 
   <div class="card">
     <h3>🧾 Software Copyright</h3>
-    <div class="meta">Registration No. 16541871   Year: 2025</div>
 
     <p>
       <strong>An Integrated Pipeline for Epigenome-Wide Association Analysis V1.0</strong><br>
-      Owner: GEAR Lab, Peking University
     </p>
+     <div class="meta">Registration No. 16541871   Year: 2025</div>
 
     <p class="meta">
       This Analysis System for Epigenome-Wide Association Studies (EWAS) V1.0 is a one-stop tool for Illumina DNA methylation arrays. It integrates data preprocessing, differential methylation analysis, and downstream functional annotation, and supports cohort, intervention, and longitudinal study designs.
