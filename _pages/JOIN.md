@@ -45,8 +45,6 @@ Subject: Research Assistant Application + Your Name
 <details markdown="1">
 <summary>Postdoctoral Fellows</summary>
 
-We are seeking to recruit 1–2 postdoctoral fellows to support our expanding research endeavors.
-
 <a href="https://sph.pku.edu.cn/info/1015/6894.htm">中文版：北京大学公共卫生学院高旭课题组博士后招聘启事</a>
 
 ### Qualifications
@@ -78,6 +76,7 @@ Subject: Postdoctoral Application + Applicant’s Name
 ---
 
 Last updated: December 17, 2025
+
 
 
 
