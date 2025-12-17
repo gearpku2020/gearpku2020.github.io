@@ -8,12 +8,11 @@ redirect_from:
 ---
 
 ![](GaoLabLogo.png) 
-
 # Opportunities
 
 We are currently recruiting one Research Assistant and 1–2 Postdoctoral Fellows to support ongoing research projects in environmental health and epidemiology.
 
-<details>
+<details markdown="1">
 <summary>Research Assistant (Staff Position)</summary>
 
 ### Responsibilities
@@ -38,18 +37,17 @@ We are currently recruiting one Research Assistant and 1–2 Postdoctoral Fellow
 
 ### Application
 
-Please email a CV, a personal statement (within 1,000 Chinese characters or equivalent in English), and supporting documents to  
-xu.gao@pku.edu.cn  
+Please email a CV, a personal statement (within 1,000 Chinese characters or equivalent in English), and supporting documents to <a href="mailto:xu.gao@pku.edu.cn">xu.gao@pku.edu.cn</a>.  
 Subject: Research Assistant Application + Your Name
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>Postdoctoral Fellows</summary>
 
 We are seeking to recruit 1–2 postdoctoral fellows to support our expanding research endeavors.
 
-Chinese version: https://sph.pku.edu.cn/info/1015/6894.htm
+Chinese version: <a href="https://sph.pku.edu.cn/info/1015/6894.htm">https://sph.pku.edu.cn/info/1015/6894.htm</a>
 
 ### Qualifications
 
@@ -72,10 +70,10 @@ Chinese version: https://sph.pku.edu.cn/info/1015/6894.htm
 ### Application
 
 Applications are accepted on a rolling basis.  
-Please send application materials to  
-xu.gao@pku.edu.cn  
+Please send application materials to <a href="mailto:xu.gao@pku.edu.cn">xu.gao@pku.edu.cn</a>.  
 Subject: Postdoctoral Application + Applicant’s Name
 
 </details>
+
 
 Last updated: December 18, 2025
