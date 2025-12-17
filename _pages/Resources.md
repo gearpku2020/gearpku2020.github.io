@@ -63,7 +63,7 @@ hr.sep{margin:26px 0;}
     </div>
 
     <p>
-    This Analysis System for Epigenome-Wide Association Studies (EWAS) V1.0 is a one-stop tool for Illumina DNA methylation arrays. It integrates data preprocessing, differential methylation analysis, and downstream functional annotation, and supports cohort, intervention, and longitudinal study designs.
+    The Integrated Pipeline for Epigenome-Wide Association Analysis (V1.0) provides an integrated workflow for Illumina DNA methylation arrays, including data preprocessing, differential methylation analysis, and functional annotation. It supports cohort, intervention, and longitudinal study designs.
     </p>
 
     <div class="btnrow">
