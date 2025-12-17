@@ -75,5 +75,7 @@ Subject: Postdoctoral Application + Applicant’s Name
 
 </details>
 
+---
 
 Last updated: December 18, 2025
+
