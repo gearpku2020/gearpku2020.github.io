@@ -53,14 +53,14 @@ hr.sep{margin:26px 0;}
   <div class="card">
     <h3>🧾 Software Copyright</h3>
 
-    <p>
-      <strong>An Integrated Pipeline for Epigenome-Wide Association Analysis V1.0</strong><br>
+    <p class="title">
+      <strong>An Integrated Pipeline for Epigenome-Wide Association Analysis V1.0</strong>
     </p>
-     <div class="meta">Registration No. 16541871   Year: 2025</div>
-
-    <p class="meta">
-      This Analysis System for Epigenome-Wide Association Studies (EWAS) V1.0 is a one-stop tool for Illumina DNA methylation arrays. It integrates data preprocessing, differential methylation analysis, and downstream functional annotation, and supports cohort, intervention, and longitudinal study designs.
-    </p>
+    
+    <div class="badges">
+      <span class="badge">Registration No. 16541871</span>
+      <span class="badge">2025</span>
+    </div>
 
     <div class="btnrow">
       <a class="btn btn--info" href="{{ '/images/easyEWAS-copyright.png' | relative_url }}">
