@@ -37,12 +37,10 @@ CV: [Xu Gao.pdf](https://gearpku2020.github.io/CV/CV%20-%20Xu%20Gao.pdf)
 
 <br>
 
-<p align="center">
-<a href="https://gearpku2020.github.io//JoinGaoLab/">
-<img src="you.png" width="220"><br>
-You?
-</a>
-</p>
+<center>
+[![](you.png)](https://gearpku2020.github.io//JoinGaoLab/)  
+[You?](https://gearpku2020.github.io//JoinGaoLab/)
+</center>
 
 ---
 
@@ -50,6 +48,7 @@ You?
 
 [![](MeijieJiangPic.png)](../People/Meijie-Jiang.md) | [![](SifanTianPic.png)](../People/Sifan-Tian.md) | [![](YutingWangPic.png)](../People/Yuting-Wang.md)
 [<center>Meijie Jiang</center>](../People/Meijie-Jiang.md) | [<center>Sifan Tian</center>](../People/Sifan-Tian.md) | [<center>Yuting Wang</center>](../People/Yuting-Wang.md)
+
 
 
 
