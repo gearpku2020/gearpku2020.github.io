@@ -35,12 +35,11 @@ CV: [Xu Gao.pdf](https://gearpku2020.github.io/CV/CV%20-%20Xu%20Gao.pdf)
 [![](gpf.png)](../People/Peifeng-Guo.md) | [![](JSW.png)](../People/Shimin-Jiang.md) | [![](YXS.png)](../People/Xusheng-Yan.md)
 [<center>Peifeng Guo</center>](../People/Peifeng-Guo.md) | [<center>Shimin Jiang</center>](../People/Shimin-Jiang.md) | [<center>Xusheng Yan</center>](../People/Xusheng-Yan.md)
 
-<br>
+<br><br>
 
-<center>
-[![](you.png)](https://gearpku2020.github.io//JoinGaoLab/)  
-[You?](https://gearpku2020.github.io//JoinGaoLab/)
-</center>
+[![](/_pages/you.png)](https://gearpku2020.github.io//JoinGaoLab/)
+
+<center>[You?](https://gearpku2020.github.io//JoinGaoLab/)</center>
 
 ---
 
@@ -48,6 +47,7 @@ CV: [Xu Gao.pdf](https://gearpku2020.github.io/CV/CV%20-%20Xu%20Gao.pdf)
 
 [![](MeijieJiangPic.png)](../People/Meijie-Jiang.md) | [![](SifanTianPic.png)](../People/Sifan-Tian.md) | [![](YutingWangPic.png)](../People/Yuting-Wang.md)
 [<center>Meijie Jiang</center>](../People/Meijie-Jiang.md) | [<center>Sifan Tian</center>](../People/Sifan-Tian.md) | [<center>Yuting Wang</center>](../People/Yuting-Wang.md)
+
 
 
 
