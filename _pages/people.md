@@ -36,7 +36,7 @@ CV: [Xu Gao.pdf](https://gearpku2020.github.io/CV/CV%20-%20Xu%20Gao.pdf)
 [<center>Peifeng Guo</center>](../People/Peifeng-Guo.md) | [<center>Shimin Jiang</center>](../People/Shimin-Jiang.md) | [<center>Xusheng Yan</center>](../People/Xusheng-Yan.md)
 
 <br>
-<p style="text-align:center;">
+<p style="text-align:center; margin-top:0;">
   <a href="https://gearpku2020.github.io/JoinGaoLab/">
     <img src="/_pages/you.png" style="width:220px; height:auto;">
   </a><br>
@@ -49,6 +49,7 @@ CV: [Xu Gao.pdf](https://gearpku2020.github.io/CV/CV%20-%20Xu%20Gao.pdf)
 
 [![](MeijieJiangPic.png)](../People/Meijie-Jiang.md) | [![](SifanTianPic.png)](../People/Sifan-Tian.md) | [![](YutingWangPic.png)](../People/Yuting-Wang.md)
 [<center>Meijie Jiang</center>](../People/Meijie-Jiang.md) | [<center>Sifan Tian</center>](../People/Sifan-Tian.md) | [<center>Yuting Wang</center>](../People/Yuting-Wang.md)
+
 
 
 
