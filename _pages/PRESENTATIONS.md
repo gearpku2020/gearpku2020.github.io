@@ -31,10 +31,10 @@ Presenter highlighted in **bold**
   <summary>2021</summary>
   <ul>
     <li><strong>Xu Gao</strong>. Short-term air pollution, cognitive performance and nonsteroidal anti-inflammatory drug use in the Veterans Affairs Normative Aging Study– China 27th Conference on Atmospheric Environment Science and Technology, Online Virtual, November 2021. <strong>Oral</strong></li>
-    <li><strong>Xu Gao</strong>. Epidemiological findings on environmental aging – China Conference on Environment and Health 2021, Chengdu, China, October 2021. <strong>[Keynote speaker & Session Chair]</strong></li>
-    <li><strong>Xu Gao</strong>. Short-term PM2.5 exposure and epigenetic aging: a quasi-experimental study in young healthy adults – Beijing Conference and Exhibition on Instrumental Analysis, Beijing, China, September 2021. <strong>[Keynote speaker]</strong></li>
-    <li><strong>Xu Gao</strong>. Environmental risk factors for chronic kidney disease – International Society of Environmental Epidemiology 2021 Conference, Online Virtual, August 2021. <strong>[Session Chair]</strong></li>
-    <li><strong>Xu Gao</strong>. Short-term exposure to PM2.5 and epigenetic aging: a quasi-experimental study – International Society of Environmental Epidemiology 2021 Conference, Online Virtual, August 2021. <strong>[Session Chair]</strong></li>
+    <li><strong>Xu Gao</strong>. Epidemiological findings on environmental aging – China Conference on Environment and Health 2021, Chengdu, China, October 2021. <strong>Keynote speaker & Session Chair</strong></li>
+    <li><strong>Xu Gao</strong>. Short-term PM2.5 exposure and epigenetic aging: a quasi-experimental study in young healthy adults – Beijing Conference and Exhibition on Instrumental Analysis, Beijing, China, September 2021. <strong>Keynote speaker</strong></li>
+    <li><strong>Xu Gao</strong>. Environmental risk factors for chronic kidney disease – International Society of Environmental Epidemiology 2021 Conference, Online Virtual, August 2021. <strong>Session Chair</strong></li>
+    <li><strong>Xu Gao</strong>. Short-term exposure to PM2.5 and epigenetic aging: a quasi-experimental study – International Society of Environmental Epidemiology 2021 Conference, Online Virtual, August 2021. <strong>Session Chair</strong></li>
   </ul>
 </details>
 
@@ -80,7 +80,7 @@ details li strong:first-child {
 }
 
 details li strong:last-child {
-  background: #2563eb;
+  background: #1F4E79;
   color: #fff;
   font-size: 0.75rem;
   padding: 0.1rem 0.45rem;
@@ -88,6 +88,7 @@ details li strong:last-child {
   margin-left: 0.4rem;
 }
 </style>
+
 
 
 
