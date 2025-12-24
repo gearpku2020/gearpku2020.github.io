@@ -76,7 +76,7 @@ details li {
 }
 
 details li strong:first-child {
-  color: #2563eb;
+  color: #1F4E79;
 }
 
 details li strong:last-child {
@@ -88,6 +88,7 @@ details li strong:last-child {
   margin-left: 0.4rem;
 }
 </style>
+
 
 
 
