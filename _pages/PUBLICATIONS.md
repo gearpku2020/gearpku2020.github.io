@@ -118,45 +118,30 @@ details li strong:first-child {
   color: #1F4E79;
 }
 
-
-  /* ===== 美化 summary（read 按键） ===== */
-details > summary {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.4rem;
-  padding: 0.3rem 0.7rem;
-  border-radius: 999px;
-  background: #e8f0f8;
+/* ===== 修饰文献后的 Read 链接 ===== */
+details li a {
+  display: inline-block;
+  margin-left: 0.4rem;
+  padding: 0.15rem 0.55rem;
+  font-size: 0.75rem;
+  font-weight: 600;
   color: #1F4E79;
-  border: 1px solid #c9d8ea;
-  transition: background 0.2s ease, box-shadow 0.2s ease;
+  border: 1px solid #1F4E79;
+  border-radius: 999px;
+  text-decoration: none;
+  transition: all 0.2s ease;
 }
 
 /* hover 效果 */
-details > summary:hover {
-  background: #dbe8f6;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+details li a:hover {
+  background: #1F4E79;
+  color: #ffffff;
 }
 
-/* 去掉浏览器自带的小三角 */
-details > summary::-webkit-details-marker {
-  display: none;
-}
-
-/* 自定义箭头 */
-details > summary::before {
-  content: "▶";
-  font-size: 0.7rem;
-  transition: transform 0.2s ease;
-}
-
-/* 展开时箭头旋转 */
-details[open] > summary::before {
-  transform: rotate(90deg);
-}
 
 
 </style>
+
 
 
 
