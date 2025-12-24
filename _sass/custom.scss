@@ -229,3 +229,99 @@ body.dark-mode blockquote {
 .greedy-nav a:hover {
   color: #B2FFFF !important;
 }
+
+
+<style>
+/* ===== Presentations 页面整体 ===== */
+.page__content details {
+  margin: 1.5rem 0;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  background: #fafafa;
+  padding: 0.75rem 1.25rem;
+}
+
+/* ===== 年份标题 ===== */
+.page__content details > summary {
+  font-size: 1.3rem;
+  font-weight: 700;
+  cursor: pointer;
+  color: #111827;
+  padding: 0.4rem 0;
+  list-style: none;
+}
+
+/* 去掉默认三角 */
+.page__content details > summary::-webkit-details-marker {
+  display: none;
+}
+
+/* 自定义展开箭头 */
+.page__content details > summary::before {
+  content: "▸";
+  display: inline-block;
+  margin-right: 0.6rem;
+  transition: transform 0.2s ease;
+  color: #2563eb;
+}
+
+.page__content details[open] > summary::before {
+  transform: rotate(90deg);
+}
+
+/* ===== 列表整体 ===== */
+.page__content details ul {
+  margin-top: 0.75rem;
+  padding-left: 0;
+}
+
+/* ===== 单条 presentation（卡片化） ===== */
+.page__content details li {
+  list-style: none;
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 10px;
+  padding: 0.8rem 1rem;
+  margin-bottom: 0.8rem;
+  line-height: 1.55;
+  transition: box-shadow 0.2s ease;
+}
+
+.page__content details li:hover {
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+/* ===== Presenter（第一位 strong） ===== */
+.page__content details li strong:first-child {
+  color: #2563eb;
+  font-weight: 700;
+}
+
+/* ===== 会议名称和地点 ===== */
+.page__content details li {
+  color: #1f2937;
+}
+
+/* ===== Oral / Keynote / Session Chair 标签 ===== */
+.page__content details li strong:last-child {
+  background: #2563eb;
+  color: #ffffff;
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 0.15rem 0.55rem;
+  border-radius: 999px;
+  margin-left: 0.4rem;
+  white-space: nowrap;
+}
+
+/* Keynote 特别强调 */
+.page__content details li strong:last-child:contains("Keynote") {
+  background: #dc2626;
+}
+
+/* Session Chair */
+.page__content details li strong:last-child:contains("Session Chair") {
+  background: #047857;
+}
+</style>
+
