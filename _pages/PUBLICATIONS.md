@@ -84,6 +84,41 @@ Updated 12/08/2025
 
 
 
+<style>
+details {
+  margin: 1.2rem 0;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 0.6rem 1rem;
+  background: #fafafa;
+}
+
+details > summary {
+  font-size: 1.2rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+details ul {
+  margin-top: 0.6rem;
+  padding-left: 0;
+}
+
+details li {
+  list-style: none;
+  background: #fff;
+  border: 1px solid #eee;
+  border-radius: 6px;
+  padding: 0.6rem 0.8rem;
+  margin-bottom: 0.6rem;
+  line-height: 1.5;
+}
+
+details li strong:first-child {
+  color: #1F4E79;
+}
+
+</style>
 
 
 
