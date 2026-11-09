@@ -49,7 +49,8 @@ CV: [Xu Gao.pdf](https://gearpku2020.github.io/CV/CV%20-%20Xu%20Gao.pdf)
 
 [![](MeijieJiangPic.png)](../People/Meijie-Jiang.md) | [![](SifanTianPic.png)](../People/Sifan-Tian.md) | [![](YutingWangPic.png)](../People/Yuting-Wang.md)
 [<center>Meijie Jiang</center>](../People/Meijie-Jiang.md) | [<center>Sifan Tian</center>](../People/Sifan-Tian.md) | [<center>Yuting Wang</center>](../People/Yuting-Wang.md)
-
+[![](ShuzhenLiuPic.png)](../People/Shuzhen-Liu.md) | [![](NSY.png)](../People/Siyuan-Niu.md) |
+[<center>Shuzhen Liu</center>](../People/Shuzhen-Liu.md) | [<center>Siyuan Niu</center>](../People/Siyuan-Niu.md) |
 
 
 
