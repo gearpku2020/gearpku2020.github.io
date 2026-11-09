@@ -28,12 +28,12 @@ CV: [Xu Gao.pdf](https://gearpku2020.github.io/CV/CV%20-%20Xu%20Gao.pdf)
 
 ## Current Members
 
-[![](HaocanSongPic.png)](../People/Haocan-Song.md) | [![](LYX.png)](../People/Yaxin-Luo.md) ｜ [![](GTT.png)](../People/Tiantian-Gu.md) 
-[<center>Haocan Song</center>](../People/Haocan-Song.md) | [<center>Yaxin Luo</center>](../People/Yaxin-Luo.md) ｜ [<center>Tiantian Gu</center>](../People/Tiantian-Gu.md)
-[![](TX.png)](../People/Xu-Tang.md) ｜ [![](gpf.png)](../People/Peifeng-Guo.md) | [![](JSW.png)](../People/Shimin-Jiang.md) 
-[<center>Xu Tang</center>](../People/Xu-Tang.md) ｜ [<center>Peifeng Guo</center>](../People/Peifeng-Guo.md) | [<center>Shimin Jiang</center>](../People/Shimin-Jiang.md) 
-[![](YXS.png)](../People/Xusheng-Yan.md)
-[<center>Xusheng Yan</center>](../People/Xusheng-Yan.md)
+[![](HaocanSongPic.png)](../People/Haocan-Song.md) | [![](LYX.png)](../People/Yaxin-Luo.md) | [![](GTT.png)](../People/Tiantian-Gu.md)
+[<center>Haocan Song</center>](../People/Haocan-Song.md) | [<center>Yaxin Luo</center>](../People/Yaxin-Luo.md) | [<center>Tiantian Gu</center>](../People/Tiantian-Gu.md)
+[![](TX.png)](../People/Xu-Tang.md) | [![](gpf.png)](../People/Peifeng-Guo.md) | [![](JSW.png)](../People/Shimin-Jiang.md)
+[<center>Xu Tang</center>](../People/Xu-Tang.md) | [<center>Peifeng Guo</center>](../People/Peifeng-Guo.md) | [<center>Shimin Jiang</center>](../People/Shimin-Jiang.md)
+[![](YXS.png)](../People/Xusheng-Yan.md) | |
+[<center>Xusheng Yan</center>](../People/Xusheng-Yan.md) | |
 
 <br>
 <p style="text-align:center; margin-top:0;">
