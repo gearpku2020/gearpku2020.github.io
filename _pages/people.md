@@ -32,8 +32,8 @@ CV: [Xu Gao.pdf](https://gearpku2020.github.io/CV/CV%20-%20Xu%20Gao.pdf)
 [<center>Haocan Song</center>](../People/Haocan-Song.md) | [<center>Yaxin Luo</center>](../People/Yaxin-Luo.md) | [<center>Tiantian Gu</center>](../People/Tiantian-Gu.md)
 [![](TX.png)](../People/Xu-Tang.md) | [![](gpf.png)](../People/Peifeng-Guo.md) | [![](JSW.png)](../People/Shimin-Jiang.md)
 [<center>Xu Tang</center>](../People/Xu-Tang.md) | [<center>Peifeng Guo</center>](../People/Peifeng-Guo.md) | [<center>Shimin Jiang</center>](../People/Shimin-Jiang.md)
-[![](YXS.png)](../People/Xusheng-Yan.md) | |
-[<center>Xusheng Yan</center>](../People/Xusheng-Yan.md) | |
+[![](YXS.png)](../People/Xusheng-Yan.md) | [![](CJH.png)](../People/Jiaheng-Cai.md) |
+[<center>Xusheng Yan</center>](../People/Xusheng-Yan.md) | [<center>Jiaheng Cai</center>](../People/Jiaheng-Cai.md) | 
 
 <br>
 <p style="text-align:center; margin-top:0;">
