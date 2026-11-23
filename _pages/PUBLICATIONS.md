@@ -21,9 +21,9 @@ redirect_from:
 <h2 class="pub-heading">Highlights</h2>
 
 <ul class="highlights">
-<li><a href="https://doi.org/10.1038/s43587-021-00060-4" target="_blank" rel="noopener">Short-term air pollution and cognitive performance in older men, modified by NSAID use</a>. <em>Nature Aging</em>, 2021.</li>
-<li><a href="https://doi.org/10.1038/s44161-024-00438-8" target="_blank" rel="noopener">Accelerated biological aging raises the risk of cardiometabolic multimorbidity and mortality</a>. <em>Nature Cardiovascular Research</em>, 2024.</li>
 <li><a href="https://doi.org/10.1021/acs.est.4c13675" target="_blank" rel="noopener">Air pollution control slows frailty progression in two cohorts of older adults</a>. <em>Environmental Science &amp; Technology</em>, 2025.</li>
+<li><a href="https://doi.org/10.1038/s44161-024-00438-8" target="_blank" rel="noopener">Accelerated biological aging raises the risk of cardiometabolic multimorbidity and mortality</a>. <em>Nature Cardiovascular Research</em>, 2024.</li>
+<li><a href="https://doi.org/10.1038/s43587-021-00060-4" target="_blank" rel="noopener">Short-term air pollution and cognitive performance in older men, modified by NSAID use</a>. <em>Nature Aging</em>, 2021.</li>
 </ul>
 
 <h2 class="pub-heading">Selected Publications</h2>
